@@ -5,7 +5,7 @@
 // console.log("Name: ", name);
 // console.log("Age: ", age);
 // console.log("IS student: ", isStudent);
-// let value = 10;
+// // let value = 10;
 // console.log(value);
 // value = "Теперь эта строка";
 // console.log(value);
@@ -145,17 +145,24 @@
 // console.clear(); 10.3
 
 // Задание №1
-let x1 = 10;
-let y1 = 2;
+// let x1 = 10;
+// let y1 = 2;
 
-console.log(x1 + y1);
-console.log(x1 - y1);
-console.log(x1 * y1);
-console.log(x1 / y1);
+// console.log(x1 + y1);
+// console.log(x1 - y1);
+// console.log(x1 * y1);
+// console.log(x1 / y1);
 
-x1 = "10";
+// x1 = "10";
 
-console.log(x1 + y1);
-console.log(x1 - y1);
-console.log(x1 * y1);
-console.log(x1 / y1);
+// console.log(x1 + y1);
+// console.log(x1 - y1);
+// console.log(x1 * y1);
+// console.log(x1 / y1);
+
+//11.4. Практическое задание №1
+let a2 = 10;
+let b2 = 5;
+
+console.log(a2 + b2);
+console.log(a2 * b2);
