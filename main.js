@@ -124,3 +124,38 @@
 // let arr2 = [1, 2, 3];
 // console.log(arr1 === arr2);
 
+// let a1 = 5;
+// let b1 = 3;
+// console.log("Сумма",a1 + b1);
+// console.log("Разность",a1 - b1);
+// console.log("Произведение",a1 * b1);
+// console.log("Деление",a1 / b1);
+
+// console.log("Обычное сообщение");
+// console.warn("Предупреждение!");
+// console.error("Ошибка!");
+// console.info("Информация");
+
+// let users = [
+//     { name: "John", age: 30 },
+//     { name: "Jane", age: 25 },
+// ];
+
+// console.table(users);
+// console.clear(); 10.3
+
+// Задание №1
+let x1 = 10;
+let y1 = 2;
+
+console.log(x1 + y1);
+console.log(x1 - y1);
+console.log(x1 * y1);
+console.log(x1 / y1);
+
+x1 = "10";
+
+console.log(x1 + y1);
+console.log(x1 - y1);
+console.log(x1 * y1);
+console.log(x1 / y1);
